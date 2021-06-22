@@ -1,4 +1,4 @@
-package com.treinamentoeverismarlon.dioeverisapi.countries;
+package com.treinamentoeverismarlon.dioeverisapi.countries.entities;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;

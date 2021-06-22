@@ -1,8 +1,7 @@
-package com.treinamentoeverismarlon.dioeverisapi.resources;
+package com.treinamentoeverismarlon.dioeverisapi.countries.resources;
 
-import com.treinamentoeverismarlon.dioeverisapi.countries.Country;
-import com.treinamentoeverismarlon.dioeverisapi.repositories.CountryRepository;
-import org.springframework.beans.factory.annotation.Autowired;
+import com.treinamentoeverismarlon.dioeverisapi.countries.entities.Country;
+import com.treinamentoeverismarlon.dioeverisapi.countries.repositories.CountryRepository;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
